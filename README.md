@@ -5,6 +5,9 @@ WILP AI Assignment
 
 This project combines React for the front end and Node.js with Express for the back end to create a chatbot that utilizes OpenAI's GPT models. The chatbot can answer user queries by searching through PDF content using text embeddings and cosine similarity.
 
+![image](https://github.com/nuppalur1/pdf-gpt/assets/41178763/8d01e977-7611-45f6-9e17-264198967bc8)
+
+
 ### Components
 
 #### `pdf-gpt/src/components/Chatbot.js`
